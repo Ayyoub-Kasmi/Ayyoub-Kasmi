@@ -9,7 +9,7 @@ Skills:
 - Backend: NodeJS & ExpresJS, Django, Flask
 - Databases: MySQL, Postgres, MongoDB
 - REST APIS
-- Networks (beginner)
+- Computer Networks and Network Programming (fundamental)
 
 <!--
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b3b7da9a1017508d21f381?variant=dark&roadmaps=backend%2Cpostgresql-dba)](https://roadmap.sh)
